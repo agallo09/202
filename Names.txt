@@ -1,2 +1,6 @@
 Names
+<<<<<<< HEAD
 Added my names
+=======
+Added my name
+>>>>>>> refs/remotes/origin/main
